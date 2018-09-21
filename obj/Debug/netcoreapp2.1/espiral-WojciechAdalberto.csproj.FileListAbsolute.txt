@@ -1,0 +1,11 @@
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\bin\Debug\netcoreapp2.1\espiral-WojciechAdalberto.deps.json
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\bin\Debug\netcoreapp2.1\espiral-WojciechAdalberto.runtimeconfig.json
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\bin\Debug\netcoreapp2.1\espiral-WojciechAdalberto.runtimeconfig.dev.json
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\bin\Debug\netcoreapp2.1\espiral-WojciechAdalberto.dll
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\bin\Debug\netcoreapp2.1\espiral-WojciechAdalberto.pdb
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\obj\Debug\netcoreapp2.1\espiral-WojciechAdalberto.csprojAssemblyReference.cache
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\obj\Debug\netcoreapp2.1\espiral-WojciechAdalberto.csproj.CoreCompileInputs.cache
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\obj\Debug\netcoreapp2.1\espiral-WojciechAdalberto.AssemblyInfoInputs.cache
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\obj\Debug\netcoreapp2.1\espiral-WojciechAdalberto.AssemblyInfo.cs
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\obj\Debug\netcoreapp2.1\espiral-WojciechAdalberto.dll
+C:\Users\WeAre\VSCore\ProjectosClase\espiral-WojciechAdalberto\obj\Debug\netcoreapp2.1\espiral-WojciechAdalberto.pdb
